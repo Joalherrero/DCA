@@ -16,7 +16,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 ### Domain 1: Orchestration (25% of exam)
 - [Complete the setup of a swarm mode cluster, with managers and worker nodes](https://docs.docker.com/engine/swarm/swarm-tutorial/create-swarm/) - OK
 - [State the differences between running a container vs running a service](https://stackoverflow.com/a/43408904) - OK
-- [Demonstrate steps to lock a swarm cluster](https://docs.docker.com/engine/swarm/swarm_manager_locking/)
+- [Demonstrate steps to lock a swarm cluster](https://docs.docker.com/engine/swarm/swarm_manager_locking/) - OK
 - [Extend the instructions to run individual containers into running services under swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/)
 - [Interpret the output of "docker inspect" commands](https://docs.docker.com/engine/swarm/swarm-tutorial/inspect-service/)
 - [Convert an application deployment into a stack file using a YAML compose file with
