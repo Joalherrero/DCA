@@ -20,7 +20,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [Extend the instructions to run individual containers into running services under swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/) - OK
 - [Interpret the output of "docker inspect" commands](https://docs.docker.com/engine/swarm/swarm-tutorial/inspect-service/) - OK
 - [Convert an application deployment into a stack file using a YAML compose file with
-"docker stack deploy"](https://docs.docker.com/engine/reference/commandline/stack_deploy/)
+"docker stack deploy"](https://docs.docker.com/engine/reference/commandline/stack_deploy/) - OK
 - [Manipulate a running stack of services](https://docs.docker.com/engine/reference/commandline/stack_services/#related-commands)
 - [Increase number of replicas](https://docs.docker.com/engine/reference/commandline/service_scale/)
 - [Illustrate running a replicated vs global service](https://docs.docker.com/engine/swarm/how-swarm-mode-works/services/#replicated-and-global-services)
