@@ -18,7 +18,7 @@ This guide is intended to be a point of knowledge for everyone who wants to pass
 - [State the differences between running a container vs running a service](https://stackoverflow.com/a/43408904) - OK
 - [Demonstrate steps to lock a swarm cluster](https://docs.docker.com/engine/swarm/swarm_manager_locking/) - OK
 - [Extend the instructions to run individual containers into running services under swarm](https://docs.docker.com/engine/swarm/swarm-tutorial/deploy-service/) - OK
-- [Interpret the output of "docker inspect" commands](https://docs.docker.com/engine/swarm/swarm-tutorial/inspect-service/)
+- [Interpret the output of "docker inspect" commands](https://docs.docker.com/engine/swarm/swarm-tutorial/inspect-service/) - OK
 - [Convert an application deployment into a stack file using a YAML compose file with
 "docker stack deploy"](https://docs.docker.com/engine/reference/commandline/stack_deploy/)
 - [Manipulate a running stack of services](https://docs.docker.com/engine/reference/commandline/stack_services/#related-commands)
